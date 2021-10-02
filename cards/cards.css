@@ -118,3 +118,11 @@ div .box{
 .box .button li a:hover{
     background: linear-gradient(to bottom left, #b836ec, #d80971);
 }
+
+.box .button.dark li a {
+    background: linear-gradient(to bottom left, #e70d68, #012f91);
+}
+
+.box .button.dark li a:hover{
+    background: linear-gradient(to bottom left, #b836ec, #041368);
+}
